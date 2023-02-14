@@ -1,0 +1,13 @@
+C:\Users\HP\OneDrive\prezentacii\Documents\Училище\Zelencuchi\Zelencuchi\obj\Debug\netcoreapp3.1\Zelencuchi.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\prezentacii\Documents\Училище\Zelencuchi\Zelencuchi\obj\Debug\netcoreapp3.1\Zelencuchi.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\prezentacii\Documents\Училище\Zelencuchi\Zelencuchi\obj\Debug\netcoreapp3.1\Zelencuchi.AssemblyInfo.cs
+C:\Users\HP\OneDrive\prezentacii\Documents\Училище\Zelencuchi\Zelencuchi\obj\Debug\netcoreapp3.1\Zelencuchi.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\prezentacii\Documents\Училище\Zelencuchi\Zelencuchi\bin\Debug\netcoreapp3.1\Zelencuchi.exe
+C:\Users\HP\OneDrive\prezentacii\Documents\Училище\Zelencuchi\Zelencuchi\bin\Debug\netcoreapp3.1\Zelencuchi.deps.json
+C:\Users\HP\OneDrive\prezentacii\Documents\Училище\Zelencuchi\Zelencuchi\bin\Debug\netcoreapp3.1\Zelencuchi.runtimeconfig.json
+C:\Users\HP\OneDrive\prezentacii\Documents\Училище\Zelencuchi\Zelencuchi\bin\Debug\netcoreapp3.1\Zelencuchi.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\prezentacii\Documents\Училище\Zelencuchi\Zelencuchi\bin\Debug\netcoreapp3.1\Zelencuchi.dll
+C:\Users\HP\OneDrive\prezentacii\Documents\Училище\Zelencuchi\Zelencuchi\bin\Debug\netcoreapp3.1\Zelencuchi.pdb
+C:\Users\HP\OneDrive\prezentacii\Documents\Училище\Zelencuchi\Zelencuchi\obj\Debug\netcoreapp3.1\Zelencuchi.dll
+C:\Users\HP\OneDrive\prezentacii\Documents\Училище\Zelencuchi\Zelencuchi\obj\Debug\netcoreapp3.1\Zelencuchi.pdb
+C:\Users\HP\OneDrive\prezentacii\Documents\Училище\Zelencuchi\Zelencuchi\obj\Debug\netcoreapp3.1\Zelencuchi.genruntimeconfig.cache
